@@ -1,5 +1,5 @@
 # 2026-09-05Homework
-[「作文文本」](composition.java)
+[点击查看作文文本](composition.java)
 
 ---
 
